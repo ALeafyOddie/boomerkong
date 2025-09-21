@@ -5,6 +5,12 @@ A hack of Donkey Kong Original Edition.
 
 The nefarious Boomer Kong has kidnapped Holly and taken her to the very top of a construction site! It's up to you to help Oddie save Holly before time runs out, but it's not going to be easy. Boomer will do everything in his power to stop you. Barrels, fireballs, tubs of cement, and anything else he can get his hands on. Don't monkey around.
 
+## Credits
+Graphics - ALeafyOddie
+Oddie, Boomer Kong characters - ALeafyOddie
+Holly character - Mr. Diamond
+Original Creature Designs - Game Freak
+
 ## Rom Information
     Database match: Donkey Kong - Original Edition (Europe) (Virtual Console) (NTSC)
     Database: No-Intro: Nintendo Entertainment System (v. 20210216-231042)
