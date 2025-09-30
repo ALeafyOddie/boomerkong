@@ -9,8 +9,8 @@ The nefarious Boomer Kong has kidnapped Holly and taken her to the very top of a
 Graphics - ALeafyOddie  
 Oddie, Boomer Kong characters - ALeafyOddie  
 Holly character - Mr. Diamond  
-Original Creature Designs - Game Freak
-Original Game - Nintendo
+Original Creature Designs - Game Freak  
+Original Game - Nintendo  
 
 ## Rom Information
     Database match: Donkey Kong - Original Edition (Europe) (Virtual Console) (NTSC)
